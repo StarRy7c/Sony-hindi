@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "name": "M.S dhoni(Thala)",
+      "badge": "Thala",
+      "comments": [
+        "bole jo koyal bago me",
+        "world cup 2019 mene jitaya tha",
+        "papa hun trophy ka papa.",
+        "kohli ne jaanbujkar 2015 ka world cup harwaya",
+        "ola hu uber",
+        "Rohit is a good captain, but I am the best!",
+        "I taught Kohli everything he knows.",
+        "My daughter Ziva can bat better than some players."
+      ]
+    },
+    {
+      "name": "Virat kohli",
+      "badge": "king",
+      "comments": [
+        "jai mahakal",
+        "ola hu uber",
+        "meri beard pak gayi ab nhi khelunga",
+        "mere teen bete sabse bada wala beta pakistan",
+        "I am the king of cricket, everyone knows that.",
+        "Dhoni is old now, it's my time to shine.",
+        "I can score a century even with my eyes closed."
+      ]
+    },
+    {
+      "name": "Rohit Sharma",
+      "badge": "Hitman",
+      "comments": [
+        "I am the hitman, I can hit sixes anytime I want.",
+        "Vada pav is the secret of my energy.",
+        "I have more IPL trophies than Dhoni and Kohli combined."
+      ]
+    },
+    {
+      "name": "Hardik Pandya",
+      "badge": "KungFu",
+      "comments": [
+        "Main karke aaya.",
+        "DJ Waley Babu, mera gaana chala do.",
+        "Aaj karke aaya."
+      ]
+    },
+    {
+      "name": "Chris Gayle",
+      "badge": "Universe Boss",
+      "comments": [
+        "Universe Boss is in the house!",
+        "Six machine is on.",
+        "Respect.",
+	"mera gayle bhi babar ke six se lamba hoti"
+      ]
+    },
+    {
+      "name": "Babar Azam",
+      "badge": "Ling",
+      "comments": [
+        "mere saare papa kidhar hai papa!",
+        "koi mujhe aanta dedo please",
+        "jai shree ram",
+	"t20 ko bana du test i am best"
+      ]
+    },
+    {
+      "name": "Mohammad Rizwan",
+      "badge": "joker",
+      "comments": [
+        "pakistan ka baccha baccha jai shree ram bolega",
+        "ya to win hai ya to lunn hai",
+        "twoos is twoos ",
+	"bobzy the ling",
+	"DSP siraj ne meri pichwade pe gend maari thi",
+	"papa kohli ko namaste"
+      ]
+    }
+  ]
+}
